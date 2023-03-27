@@ -1,0 +1,20 @@
+body{
+  background-color: mediumpurple; 
+}
+.div-1{
+  color: white;
+  background-color: purple; 
+  max-height: 250px;
+  min-height: 250px;
+  max-width: 342px;
+  min-width: 342px;
+  overflow: scroll; 
+  position: center center; 
+  margin-top: 50%; 
+  border-radius: 12%;
+}
+h3{
+  margin-left: 23%;
+  background-color: white; 
+  width: fit-content;
+}
